@@ -1,0 +1,42 @@
+1. Choose a reputable free VPN service
+Examples: ProtonVPN, Windscribe,(all have free plans).
+Avoid unknown or suspicious VPNs — some log data or inject ads.
+
+2. Download and install the VPN client
+Go to the official website only (never third-party download sites).
+Install the client for your OS (Windows, Mac, Linux) or mobile device.
+
+3. Connect to a VPN server
+Choose the closest location for faster speeds.
+If you want to bypass location restrictions, pick a server in the target country.
+
+4. Verify your IP address has changed
+Visit whatismyipaddress.com or ipleak.net.
+Check that your IP and location are different from your actual one.
+
+5. Browse a website to confirm encryption
+Open any website.
+Use Wireshark or browser developer tools to confirm HTTPS + VPN encryption.
+
+6. Disconnect VPN and compare speed & IP
+Re-check your IP — it should return to your real one.
+Compare browsing speed (VPN might be slightly slower).
+
+7. Research VPN encryption & privacy features
+Common protocols: OpenVPN, IKEv2, WireGuard.
+Features to note: Kill switch, No-log policy, DNS leak protection.
+
+8. Write a summary — VPN benefits & limitations
+
+Benefits:
+
+Hides your real IP and location.
+Encrypts internet traffic, improving security on public Wi-Fi.
+Bypasses censorship and geo-restrictions.
+
+Limitations:
+
+Free VPNs may have speed/data limits.
+Not all VPNs are trustworthy — some may log or sell data.
+Slight increase in latency and reduced speed.
+If you want, I can also make you a ready-to-use report format for this VPN test so you can just fill in your results. That way, it’ll look professional for documentation or assignments.
